@@ -5,9 +5,9 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.android.application.db.Province"/>
-        <mapping class="com.android.application.db.City"/>
-        <mapping class="com.android.application.db.County"/>
+        <mapping class="com.example.hefengweather.db.Province"/>
+        <mapping class="com.example.hefengweather.db.City"/>
+        <mapping class="com.example.hefengweather.db.County"/>
     </list>
 
 </litepal>
